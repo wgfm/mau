@@ -1,0 +1,3 @@
+%{
+  "deck": {:git, "https://github.com/wgfm/deck.git", "8dbe21a29a79c99bfc136dc1c6e2f3a7644af9e6", []},
+}
