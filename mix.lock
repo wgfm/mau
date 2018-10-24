@@ -1,3 +1,4 @@
 %{
   "deck": {:git, "https://github.com/wgfm/deck.git", "8dbe21a29a79c99bfc136dc1c6e2f3a7644af9e6", []},
+  "elixir_uuid": {:hex, :elixir_uuid, "1.2.0", "ff26e938f95830b1db152cb6e594d711c10c02c6391236900ddd070a6b01271d", [:mix], [], "hexpm"},
 }

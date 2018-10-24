@@ -22,6 +22,7 @@ defmodule Mau.MixProject do
   defp deps do
     [
       {:deck, git: "https://github.com/wgfm/deck.git"},
+      {:elixir_uuid, "~> 1.2"},
     ]
   end
 end
